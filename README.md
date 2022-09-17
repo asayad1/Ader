@@ -23,3 +23,10 @@ If you are on Windows, you may get an error that running script is disabled on t
 ```
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 ```
+
+## <ins>Running Ader</ins> ###
+To run Ader, you will need to navigate to the ```Ader_App``` directory, and run the command:
+```
+npx expo start
+```
+Note that you will need the Expo Go on iOS or Android to run the source code. 
