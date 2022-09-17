@@ -19,3 +19,7 @@ CocoaPods not installed. It is needed for IOS project.
 yarn add expo 
 ```
 
+If you are on Windows, you may get an error that running script is disabled on the system. This can be solved by opening Powershell as administrator and entering the command:
+'''
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+'''
