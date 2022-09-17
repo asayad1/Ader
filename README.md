@@ -1,5 +1,15 @@
 # Ader
-A mobile application that connects users in need. 
+Ader is a mobile application that connects users in need. 
+
+## <ins>Dependencies</ins> ## 
+Ader runs on many technologies. To ensure hassle-free installation of Ader, make sure that all technologies listed are installed:
+* React Native
+* Expo 
+* Yarn
+* Choco
+* node.js
+* Android SDK
+* Java SDK
 
 CocoaPods not installed. It is needed for IOS project.
 
