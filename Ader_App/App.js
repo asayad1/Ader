@@ -76,8 +76,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Ader">
-            Edit <Text style={styles.highlight}>App.js</Text> what the fuck lets
-            go
+            Edit <Text style={styles.highlight}>App.js</Text> LETS GET HACKING
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
